@@ -1,0 +1,436 @@
+
+{
+    "timeline":
+    {
+        "headline":"History of Graduate-student Unionization",
+        "type":"default",
+		"startDate":"1968",
+		"text":"",
+		"asset":
+        {
+            "media":"assets/img/notes.png",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"1968,1",
+                "headline":"City University of New York",
+                "text":"CUNY's faculty includes graduate students in their bargining unit, the first time graduate assistants were included in a union.",
+                "asset":
+                {
+                    "media":"http://vimeo.com/22439234",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1969,1",
+                "headline":"Organization begins at University of Wisconsin-Madison",
+                "text":"The Teaching Assistant Association at University of Wisconsin at Madison becomes the first stand alone graduate union. Although the Wisconsin legislature threatened to prohibit unionization, but at the threat of the strike, the legislature relented,",
+                "asset":
+                {
+                    "media":"assets/img/shots/sidebar_s3.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1970,1",
+                "headline":"First stand-alone union at Wisconsin",
+                "text":"TAA won recognition from the University of Wisconsin at Madison, making it the first independently recognized graduate assistant bargaining unit. But the union was unable to immediately secure a contract. But since the legislator neither guaranteed the right to bargain, TAAs union will be challenged in the future.",
+                "asset":
+                {
+                    "media":"http://vimeo.com/23237102",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1970,3",
+                "headline":"TAA wins union contract",
+                "text":"Again, at the threat of a strike which would remove teaching assistants from the classroom, the TAA signed a contract with the University of Wisconsin. The contract only covers teaching assistants, not yet including researchers.",
+                "asset":
+                {
+                    "media":"assets/img/shots/shot_1298590416.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1970,6,13",
+                "headline":"National Labor Relations Board assumes jursdiction",
+                "text":"Overturning their precedent from 1951, the NLRB determines they have jurisdiction over non-profit universities. In their decision, the board notes 'the operations of universities and colleges have increasingly become matters of Federal interest, and that this interest coupled with the failure of States to adequately recognize and legislate for labor relations affecting these institutions and their employees now justifies the Board in asserting jurisdiction.' This case will position the NLRB in playing the crucial and pivitol role in graduate-student unionization at private universities.",
+                "asset":
+                {
+                    "media":"<blockquote>[T]he failure of the States adequately to recognize and legislate for labor relations affecting these institutions and their employees now justifies the Board in asserting jurisdiction.</blockquote>",
+                    "credit":"National Labor Relations Board <a href='http://mynlrb.nlrb.gov/link/document.aspx/09031d45800a8067'><i>Cornell University</i> 183-329</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1972,1",
+                "headline":"Rutgers University unionizes",
+                "text":"The Rutgers union was the first to include research assistants in the bargaining unit.",
+                "asset":
+                {
+                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1971,1",
+                "headline":"University of Wisconsin at Milwaukee follows Madison",
+                "text":"Although the University of Wisconsin at Milwaukee attempted recognition shortly after TAA's success in Madison, it would be 20 years before they receive a contract.",
+                "asset":
+                {
+                    "media":"assets/img/shots/chameleon.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1972,2,29",
+                "headline":"Unions at private universities prohibited",
+                "text":"The National Labor Relations Board rules that graduate assistants are not employees and, therefore, not eligible to unionize at private universities. The two-judge Republican majority rules the primary function of graduate assistants are educational in nature. In dissent, the lone Democrat rules graduate assistants are, in fact, employees.",
+                "asset":
+                {
+                    "media":"<blockquote>The graduate assistants are graduate students working toward their own advanced academic degrees, and their employment depends entirely on their continued status as such. They do not have faculty rank, are not listed in the University's catalogs as faculty members, have no vote at faculty meetings, are not covered by the University personnel plan, have no standing before the University's grievance committee, and, except for health insurance, do not participate in any of the fringe benefits available to faculty members ... Unlike faculty members, graduate assistants are unaided, instructed, assisted, and corrected in their performance of their assistantship duties by the regular faculty members to whom they are assigned (p. 646).</blockquote>",
+                    "credit":"National Labor Relations Board <a href='http://mynlrb.nlrb.gov/link/document.aspx/09031d45800a9210'><i>Adelphi University</i> 195-369</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1975,1",
+                "headline":"Michigan, Oregon, and SUNY-Buffalo TAs organize",
+                "text":"In 1975, the Universities of Michigan, Oregon, and State University of New York at Buffalo begin their efforts to unionize. Although Michigan TAs receive a contract, it will be a few more years until Oregon is recognized and over a decade for Buffalo to win a contract.",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1976,1",
+                "headline":"Organization begins at University of Florida, Oregon wins recognition",
+                "text":"University of Oregon wins recognition from the administration, but they do not earn a contract yet. Meanwhile, graduate assistants at the University of Florida begin to form a union, their path would lead to other public universities also being unionized in the 1980s. Unionization will experience a quiescence for the rest of the 1970s.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1976,3,23",
+                "headline":"NLRB prohibits medical residents from unionization",
+                "text":"Echoing the <i>Adelphi</i> ruling, medical residents are also prohibited from unionizing given the primary educational nature.",
+                "asset":
+                {
+                    "media":"<blockquote>[t]hey participate in these programs not for the purpose of earning a living; instead, they are there to pursue the graduate medical education that is a requirement for the practice of medicine (p. 253).</blockquote>",
+                    "credit":"National Labor Relations Board <a href='http://mynlrb.nlrb.gov/link/document.aspx/09031d45800ae652'><i>Cedars-Sinai Medical Center</i> 223-251</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1978,1",
+                "headline":"University of Oregon wins contract",
+                "text":"Teaching assistants from the University of Oregon finally win a union contract after forming in 1975. This will be the last major development in union activity in the 1970s.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1981,1",
+                "headline":"Wisconsin revokes recognition",
+                "text":"The TAA--the first union to win independent recognition as a union--loses their recognition from the University of Wisconsin after a TAA strike. The university, which voluntarily recognized the union without any legal obligation to do so, would refuse to renew the contract until the mid 1980s.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1981,1",
+                "headline":"Florida wins contracts",
+                "text":"The University of Florida unionization efforts leads to the University of South Florida and Florida A & M also earning recognition and their first contract in 1981.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1983,1",
+                "headline":"Long-haul at Berkley",
+                "text":"Not surprsingly, the liberal University of California at Berkley were the first to begin their unionization efforts in California. However, it would be years before the union would be recognized. The effort during the 1980s would lead to large union battles throughout the 1990s.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1986,1",
+                "headline":"Wisconsin legislature reinstates union recognition",
+                "text":"Six years after the University of Wisconsin at Madison withdrew its recognition of TAA, the Wisconsin legislature legalized teaching assistant unions. The university would be forced to recognize the union and a new contract was signed. Research assistants, however, were not included in the legislation.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984,1",
+                "headline":"Organizing at State University of New York",
+                "text":"Following SUNY-Buffalo, Albany, Binghamton, and Stony Brook also begun their union drives. Like the University of California, much of the 1980s would be laying the groundwork for later success.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1988,1",
+                "headline":"Partial unionization at Berkley",
+                "text":"Readers and tutors at UC-Berkley negotiated a contract with the administration, but other teaching assistants were not yet included in the bargaining unit.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1989,12",
+                "headline":"Map of unionization",
+                "text":"Graduate-student unionization was far from wide-spread at the end of the 1980s. Unions started where private-sector unionization was strongest. Within the next decade, the map of unionization would quickly change.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990,1",
+                "headline":"Yale unionizes",
+                "text":"Despite the <i>Adelphi</i> ruling, graduate assistants at Yale University organize a labor union. Graduate assistants and administrators would have one of the most ascerbic relationships in the unionization movement. There will be six strikes over the next 18 years.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1991,1",
+                "headline":"SUNY and UW-Milwaukee wins contract, NYU begins turbulant union",
+                "text":"TAs at the University of Wisconsin at Milwaukee finally receive formal recognition and their first labor contract. Meanwhile, Unions at the State University of New York campuses are formally recognized by the administration, although it would be a few more years before negotiating the first contract. Teaching assistants at New York University, a private university where unionization is not required to be recognized, begin their unionization efforts. The NYU union would arguably become the most well-known graduate student union.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1992,1",
+                "headline":"University of California at San Diego",
+                "text":"A second university in the University of California system organizes a union. Like many other universities, it would be years until the graduate students receive their first contract.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1993,1",
+                "headline":"Iowa, Illinois-UC, UMass-Lowell, and UC-Davis form unions",
+                "text":"Within the same year, universities in two new states--Iowa and Illinois form. The University of Iowa would win recognition in a few short years, but unions at University of Illinois at Urbana-Champaign and University of California at Davis would not achieve success until the early 2000s and late 1990s, respectively. A newly formed union at University of Massachusetts at Lowell won immediate recognition, but a contract would take a few years.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1994,1",
+                "headline":"Union at UCLA and UC-Santa Barbara",
+                "text":"Two more University of California campus forms their own union but are not immediately recognized. The California Public Employee Relations Board (PERB) have not recognized graduate students as employees, echoing the opinion of the 1972 <i>Adelphi</i> case.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995,1",
+                "headline":"University of Kansas unionizes",
+                "text":"University of Kansas graduate students organize a new union that will receive their first contract in a couple of years.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995,12",
+                "headline":"Yale TA strikes",
+                "text":"Teaching assistants in Yale's union refused to grade and submit semester scores. Administrators, who were not obliged to recognize the union or the strike, refused to recognize the union. Ultimately, the strike ended without any concessions from the union or administrators.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://www.nytimes.com/1995/12/13/nyregion/yale-teaching-assistants-vote-for-a-grade-strike.html'><i>The New York Times</i></a>, December 13, 1999.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1996,1",
+                "headline":"Iowa, UMass-Lowell negotiate initial contracts",
+                "text":"Iowa and the University of Massachusetts at Lowell, who both organized in 1993, sign their first collective bargaining contract.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1997,1",
+                "headline":"Kansas wins contract while new unions form at Wayne State University, UC-Riverside, and Temple University",
+                "text":"New unionization efforts continued at the University of California with the Riverside campus now organizing. Wayne State University in Michigan and Temple University in Pennsylvania.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1999,3",
+                "headline":"University of California recognizes union",
+                "text":"Since the Berkley campus organized in 1981, the California PERB agreed that graduate assistants were employees, leading the administration to recognize the union.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Union-Wins-Graduate-Student/22374/'><i>Chronicle of Higher Education</i>, May 21, 1999.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1999,12",
+                "headline":"Sixteen union contracts at close of millenium",
+                "text":"The unionization efforts begun in the 1980s and early 1990s eventually led to a cascade of unionization below 2000. Most unions were located in states with a strong history of unionization.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2000,10,31",
+                "headline":"NLRB overturns <i>Adelphi</i>, permits unionization at private universites",
+                "text":"The Democratic-controlled National Labor Relations Board heard an appeal by New York University's graduate-student union. With reference in the dissent in <i>Adelphi</i> and the majority ruling in <i>Boston Medical Center</i>, the NLRB ruled that graduate assistants were employees and eligible to unionize.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2000,12,12",
+                "headline":"Governor George W. Bush defeats Senator Al Gore, wins presidency",
+                "text":"After a contested presidential election, particuarly in Florida, the Republican George W. Bush won the 2000 Presidential Election. Meanwhile, the Republican party won a majority of seats in the United States Senate. With control of the White House and Senate, President Bush would be able to appoint Republican members to the NLRB.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,2",
+                "headline":"NYU signs contract with union",
+                "text":"After NLRB overturned <i>Adelphi</i>, NYU administrators and NYU's union, GSOC, reached an agreement on a four-year contract. NYU was the first private university who recognized the graduate union and the first to sign a contract. Though 2011, it was also the only private union to ever be recognized.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,11",
+                "headline":"Cornell rejects unionization",
+                "text":"A vote for unionization at Cornell University failed 580 to 1,350, the first union vote at a private university which failed. Meanwhile, votes held at the University of Pennsylvania, Columbia University, and Tufts University were withheld pending appeal of the NYU case.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004,7,13",
+                "headline":"NLRB halts unionization at private universities",
+                "text":"NLRB rules on a case appealed by administrators at Brown University on the status of graduate-student unionization. NLRB, which is now comprised of a Republican majority, reverts the <i>NYU</i> case and rules that graduate assistants are not employees. Unionization efforts at private universities immediately halt. NYU, who have already signed a contract, will continue.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,8,31",
+                "headline":"NYU contract expires",
+                "text":"NYU's contract with GSOC, the first union at a private university to receive a contract, expired. NYU's administration, no longer obligated to recognize the labor union, refuses to renew a contract.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,3,12",
+                "headline":"Michigan legislature prohibits research assistants from unionizing",
+                "text":"Governor Richard Snyder of Michigan signed a bill passed by the legislature prohibiting research assistants from unionizing in Michigan's public universities. Research and teaching assistants unionized at the University of Michigan in 1975. Research assistants were included until 1981, while the University of Michigan TAs continued one of the longest graduate unions.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"<a href='http://chronicle.com/article/Cornells-Teaching-Assistan/2009/'>Chronicle of Higher Education</a> November 8, 2012.",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,6,12",
+                "headline":"NLRB considers revisting <i>Brown</i> decision",
+                "text":"After NLRB is confirmed by the Senate with a Democratic majority, the Board invites briefs on reconsidering <i>Brown</i> decision. NLRB considers hearing cases on appeal concerning NYU and Polytechnic Institute of NYU graduate unionization efforts. The three Democratic members--Mark Gaston Pearce, Richard Griffin, and Sharon Black--ruled to invite comments, while Brian Hayes-the sole Republican member-dissented.",
+                "asset":
+                {
+                    "media":"https://twitter.com/NLRB/status/216231295234224131",
+                    "credit":"http://www.nlrb.gov/news/board-grants-review-invites-briefs-question-graduate-student-assistant-status-two-cases",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
